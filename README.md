@@ -16,7 +16,7 @@
 - 🤔 I'm looking for help with scaling applications
 - ⚙️ I use daily: `.js`, `.ts`, `.py`, `.jsx`, `.css`
 - 💬 Ping me about **Web Development**, **DevOps**, **Software Architecture**, **Cloud Computing**
-- 📫 How to reach me: [your-email@example.com]
+- 📫 How to reach me: vaad63500@gmail.com
 
 </td>
 <td width="50%" align="center">
