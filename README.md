@@ -69,65 +69,6 @@
   </a>
 </p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> My GitHub Stats
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=vision_friendly_dark&hide_border=true" />
-  </a>
-</td>
-<td width="50%" align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=your-username&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-  </a>
-</td>
-</tr>
-</table>
-
-## 🚀 Projects I'm Proud Of
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <a href="https://github.com/your-username/project-one">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-one&theme=vision_friendly_dark" />
-  </a>
-</td>
-<td width="50%" align="center">
-  <a href="https://github.com/your-username/project-two">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-two&theme=vision_friendly_dark" />
-  </a>
-</td>
-</tr>
-</table>
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://medium.com/@your-medium" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://dev.to/your-dev" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
-  </a>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/your-username/your-username/output/github-snake.svg" />
-  </picture>
-</p>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&color=brightgreen" alt="Profile Views"/>
 </div>
