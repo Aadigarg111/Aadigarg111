@@ -138,7 +138,45 @@
 
 </p>
 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px" height="50px"></img> My Projects
+<table align="center" style="width:100%">
+<tr border="none">
+<td width="33.33%" align="center">
+<a href="https://aadigarg.life" target="_blank">
+<strong>Portfolio</strong>
+</a>
+</td>
+<td width="33.33%" align="center">
+<a href="https://typems.app" target="_blank">
+<strong>TypeMS</strong>
+</a>
+</td>
+<td width="33.33%" align="center">
+<a href="https://nivii.app" target="_blank">
+<strong>Nivii</strong>
+</a>
+</td>
+</tr>
+<tr border="none">
+<td width="33.33%" align="center">
+<a href="https://star.aadigarg.life" target="_blank">
+<strong>Star</strong>
+</a>
+</td>
+<td width="33.33%" align="center">
+<a href="https://sol.aadigarg.life" target="_blank">
+<strong>Sol</strong>
+</a>
+</td>
+<td width="33.33%" align="center">
+<a href="https://wewatch.aadigarg.life" target="_blank">
+<strong>WeWatch</strong>
+</a>
+</td>
+</tr>
+</table>
 
+<br>
 
 <div align="center">
 
