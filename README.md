@@ -34,7 +34,7 @@
 
 - 💬 Ping me about **Web Development**, **DevOps**, **Software Architecture**, **Cloud Computing**
 
-- 📫 How to reach me: vaad63500@gmail.com
+- 📫 How to reach me: contact@aadigarg.in
 
 
 
